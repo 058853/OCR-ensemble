@@ -45,6 +45,7 @@ class OCRApp:
             print(f"✗ PaddleOCR not available: {e}")
         
         try:
+            print("about to init Surya")
             self.models.append(SuryaOCR())
             print("✓ Surya OCR initialized")
         except Exception as e:

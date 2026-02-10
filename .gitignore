@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env / secrets
+.env
+*.env
+OPENAI_API_KEY*
+*.key
+
+# Conda / venv
+.venv/
+env/
+venv/
+conda/
+
+# Caches / models
+.cache/
+**/.cache/
+huggingface/
+**/huggingface/
+models/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db

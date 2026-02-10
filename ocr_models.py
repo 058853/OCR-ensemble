@@ -8,23 +8,9 @@ import numpy as np
 from ocr_base import OCRBase
 from models import OCRResult, BoundingBox, ModelName
 
-# Detection imports (This is likely where your error is)
-from surya.model.detection.segformer import (
-    load_model as load_det_model, 
-    load_processor as load_det_processor
-)
-
-# Recognition imports
-from surya.model.recognition.model import load_model as load_rec_model
-from surya.model.recognition.processor import load_processor as load_rec_processor
-
-# Main OCR runner
-from surya.ocr import run_ocr
-
-# from surya.model.detection.model import (
-#     load_model as load_det_model,
-#     load_processor as load_det_processor
-# )
+import os 
+os.environ['OMP_NUM_THREADS']= "1"  # Limit OpenMP threads to prevent resource exhaustion"
+os.environ['MKL_NUM_THREADS']= "1" 
 
 class TesseractOCR(OCRBase):
     """Tesseract OCR implementation"""
@@ -76,7 +62,7 @@ class PaddleOCRModel(OCRBase):
         super().__init__(ModelName.PADDLE_OCR)
         try:
             from paddleocr import PaddleOCR
-            self.ocr = PaddleOCR(use_angle_cls=True, lang='en', use_gpu=False)
+            self.ocr = PaddleOCR(use_angle_cls=True, lang='en')
         except ImportError:
             raise ImportError("PaddleOCR not installed. Install with: pip install paddlepaddle paddleocr")
     
@@ -116,9 +102,10 @@ class PaddleOCRModel(OCRBase):
 
 
 class SuryaOCR(OCRBase):
-    """Surya OCR implementation"""
+    """Surya OCR implementation using the new predictor-based API"""
     
     def __init__(self, languages: Optional[List[str]] = None):
+        print("Initializing Surya OCR...")
         """
         Initialize Surya OCR
         
@@ -129,46 +116,27 @@ class SuryaOCR(OCRBase):
         self.languages = languages or ['en']
         
         try:
+            from surya.foundation import FoundationPredictor
+            from surya.detection import DetectionPredictor
+            from surya.recognition import RecognitionPredictor
             
-            self.run_ocr = run_ocr
-            self.load_det_model = load_det_model
-            self.load_det_processor = load_det_processor
-            self.load_rec_model = load_rec_model
-            self.load_rec_processor = load_rec_processor
-            
-            # Load models (will be cached)
-            self.det_processor = None
-            self.det_model = None
-            self.rec_model = None
-            self.rec_processor = None
-            
-        except ImportError:
-            raise ImportError(
-                "surya-ocr not installed. Install with: pip install surya-ocr"
-            )
+            # Both predictors share a single FoundationPredictor instance
+            self.foundation_predictor = FoundationPredictor()
+            self.det_predictor = DetectionPredictor(self.foundation_predictor)
+            self.rec_predictor = RecognitionPredictor(self.foundation_predictor)
+        except Exception as e :
+            import traceback
+            print(f"Error initializing Surya O0CR: {e}")
+            traceback.print_exc()
+            raise 
     
     def process(self, image: Image.Image) -> List[OCRResult]:
         """Process image with Surya OCR"""
-        # Lazy load models on first use
-        if self.det_model is None:
-            self.det_processor = self.load_det_processor()
-            self.det_model = self.load_det_model()
+        # Run detection to find text regions
+        det_predictions = self.det_predictor([image])
         
-        if self.rec_model is None:
-            self.rec_model = self.load_rec_model()
-            self.rec_processor = self.load_rec_processor()
-        
-        # Convert PIL Image to numpy array
-        img_array = np.array(image)
-        pil_image = Image.fromarray(img_array)
-        predictions  = self.run_ocr(
-            [pil_image],
-            [self.languages],
-            self.det_model,
-            self.det_processor,
-            self.rec_model,
-            self.rec_processor
-        )
+        # Run recognition on detected regions
+        predictions = self.rec_predictor([image], det_predictions, langs=self.languages)
         
         results = []
         
@@ -176,13 +144,10 @@ class SuryaOCR(OCRBase):
             prediction = predictions[0]  # First (and only) image result
             
             for line in prediction.text_lines:
-                # Extract text
                 text = line.text.strip()
                 if not text:
                     continue
                 
-                # Extract bounding box (Surya uses polygon format, convert to bbox)
-                bbox_polygon = line.bbox
                 x1, y1, x2, y2 = line.bbox
                 
                 bbox = BoundingBox(
@@ -192,7 +157,6 @@ class SuryaOCR(OCRBase):
                     y2=y2
                 )
                 
-                # Surya doesn't provide confidence per line, use default or calculate
                 confidence = getattr(line, 'confidence', None) or 0.9
                 
                 results.append(OCRResult(

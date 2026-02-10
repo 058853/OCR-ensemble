@@ -6,7 +6,7 @@ numpy>=1.24.0
 pytesseract>=0.3.10
 paddlepaddle>=2.5.0
 paddleocr>=2.7.0
-surya-ocr>=0.4.0
+surya-ocr>=0.8.0
 
 # LLM clients (at least one required for LLM reconciliation)
 openai>=1.0.0
