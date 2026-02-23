@@ -1,0 +1,369 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 14.0,
+        "x2": 383.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9950998028119405,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المالح الحداد",
+      "bbox": {
+        "x1": 255.0,
+        "y1": 60.0,
+        "x2": 313.0,
+        "y2": 72.0
+      },
+      "confidence": 0.2570666054884593,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "(1)",
+      "bbox": {
+        "x1": 278.0,
+        "y1": 151.0,
+        "x2": 296.0,
+        "y2": 162.0
+      },
+      "confidence": 0.6333770900964737,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "والماجيك الوزراء",
+      "bbox": {
+        "x1": 389.0,
+        "y1": 155.0,
+        "x2": 456.0,
+        "y2": 169.0
+      },
+      "confidence": 0.9500343104203542,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ممثل من وزارة التعليم",
+      "bbox": {
+        "x1": 356.0,
+        "y1": 181.0,
+        "x2": 449.0,
+        "y2": 196.0
+      },
+      "confidence": 0.9973450795463894,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضوا",
+      "bbox": {
+        "x1": 128.0,
+        "y1": 183.0,
+        "x2": 151.0,
+        "y2": 194.0
+      },
+      "confidence": 0.9877031922340394,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- 2",
+      "bbox": {
+        "x1": 451.0,
+        "y1": 183.0,
+        "x2": 475.0,
+        "y2": 195.0
+      },
+      "confidence": 0.7760500609874725,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ممثل من وزارة المالية",
+      "bbox": {
+        "x1": 359.0,
+        "y1": 205.0,
+        "x2": 449.0,
+        "y2": 221.0
+      },
+      "confidence": 0.9940976656001547,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- 4",
+      "bbox": {
+        "x1": 457.0,
+        "y1": 208.0,
+        "x2": 475.0,
+        "y2": 218.0
+      },
+      "confidence": 0.7670446485280991,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ممثل من وزارة العمل والتنمية الاجتماعية",
+      "bbox": {
+        "x1": 275.0,
+        "y1": 231.0,
+        "x2": 449.0,
+        "y2": 246.0
+      },
+      "confidence": 0.9990325991700335,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- 4",
+      "bbox": {
+        "x1": 458.0,
+        "y1": 234.0,
+        "x2": 475.0,
+        "y2": 244.0
+      },
+      "confidence": 0.8452457636594772,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ممثل من وزارة الطاقة والصناعة والثروة العدنية",
+      "bbox": {
+        "x1": 242.0,
+        "y1": 256.0,
+        "x2": 449.0,
+        "y2": 271.0
+      },
+      "confidence": 0.9929801568071893,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضدا",
+      "bbox": {
+        "x1": 129.0,
+        "y1": 259.0,
+        "x2": 151.0,
+        "y2": 268.0
+      },
+      "confidence": 0.9902205467224121,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- 9",
+      "bbox": {
+        "x1": 451.0,
+        "y1": 259.0,
+        "x2": 476.0,
+        "y2": 270.0
+      },
+      "confidence": 0.9060431122779846,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ز- ممثل من هيئة تقويم التعليم",
+      "bbox": {
+        "x1": 328.0,
+        "y1": 280.0,
+        "x2": 476.0,
+        "y2": 297.0
+      },
+      "confidence": 0.9677404395995601,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضدا",
+      "bbox": {
+        "x1": 128.0,
+        "y1": 283.0,
+        "x2": 152.0,
+        "y2": 293.0
+      },
+      "confidence": 0.9825111627578735,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ويجب ألا تقل مراتب ممثلي الوزارات والهيئة في عضوية المجلس عن المرتبة (الرابعة",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 306.0,
+        "x2": 448.0,
+        "y2": 322.0
+      },
+      "confidence": 0.9930384845673284,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عشرة) أو ما يعادلها.",
+      "bbox": {
+        "x1": 353.0,
+        "y1": 330.0,
+        "x2": 448.0,
+        "y2": 347.0
+      },
+      "confidence": 0.9808742214332927,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "خمسة أعضاء من ذوى الخبرة من القطاع الخياص ، يرفع بياسميانهم وزير التعليم بنياءً",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 355.0,
+        "x2": 448.0,
+        "y2": 371.0
+      },
+      "confidence": 0.9764188748818857,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- 2",
+      "bbox": {
+        "x1": 454.0,
+        "y1": 358.0,
+        "x2": 475.0,
+        "y2": 371.0
+      },
+      "confidence": 0.5999512672424316,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "على اقتراح من وزير التجارة والاستثمار بالتشاور مع مجلس الغرف التجارية",
+      "bbox": {
+        "x1": 100.0,
+        "y1": 382.0,
+        "x2": 447.0,
+        "y2": 396.0
+      },
+      "confidence": 0.9793643943020995,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "والصناعية السعودية ، ويصدر بتعيينهم قرار من مجلس الوزراء",
+      "bbox": {
+        "x1": 185.0,
+        "y1": 406.0,
+        "x2": 448.0,
+        "y2": 421.0
+      },
+      "confidence": 0.9927364515847173,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "رنيس مجلس الوزراء",
+      "bbox": {
+        "x1": 102.0,
+        "y1": 457.0,
+        "x2": 183.0,
+        "y2": 470.0
+      },
+      "confidence": 0.9992336348483437,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990777015686,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "2/10",
+      "bbox": {
+        "x1": 554.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9386161923408508,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 26
+}

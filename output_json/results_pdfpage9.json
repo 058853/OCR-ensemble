@@ -1,0 +1,425 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 301.0,
+        "y1": 14.0,
+        "x2": 382.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9955780878663063,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المرهشم ....",
+      "bbox": {
+        "x1": 175.0,
+        "y1": 45.0,
+        "x2": 214.0,
+        "y2": 54.0
+      },
+      "confidence": 0.968176760843822,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "كالغبت الشعد",
+      "bbox": {
+        "x1": 355.0,
+        "y1": 48.0,
+        "x2": 438.0,
+        "y2": 61.0
+      },
+      "confidence": 0.5874965616634914,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المثاريخ : / / عاهد",
+      "bbox": {
+        "x1": 102.0,
+        "y1": 61.0,
+        "x2": 214.0,
+        "y2": 74.0
+      },
+      "confidence": 0.6486258180368514,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "aleccal and all",
+      "bbox": {
+        "x1": 375.0,
+        "y1": 71.0,
+        "x2": 435.0,
+        "y2": 81.0
+      },
+      "confidence": 0.19710380978444042,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المرفعات ...",
+      "bbox": {
+        "x1": 174.0,
+        "y1": 81.0,
+        "x2": 213.0,
+        "y2": 91.0
+      },
+      "confidence": 0.9593362084456852,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٧- متابعة إدارة وحدات التدريب المختلفة، واتخاذ ما يلزم لرفع مستوى أدائها وكفايتها.",
+      "bbox": {
+        "x1": 128.0,
+        "y1": 116.0,
+        "x2": 454.0,
+        "y2": 132.0
+      },
+      "confidence": 0.9980487525463104,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٨- الإشراف على شؤون المتدربين، ورعايتها.",
+      "bbox": {
+        "x1": 282.0,
+        "y1": 139.0,
+        "x2": 454.0,
+        "y2": 151.0
+      },
+      "confidence": 0.9739916253657568,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٩- الإشراف على إعداد سياسات المؤسسة وخططها ويرامجها، ومتابعة تنفيذها، واقترام",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 159.0,
+        "x2": 454.0,
+        "y2": 172.0
+      },
+      "confidence": 0.9913880462887921,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تطويرها.",
+      "bbox": {
+        "x1": 407.0,
+        "y1": 182.0,
+        "x2": 442.0,
+        "y2": 192.0
+      },
+      "confidence": 0.9834831714630127,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "• ١ - اقترام مشاريع اللوائح والقرارات الخاصة بسير العمل في المؤمسة التي تدخل في",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 200.0,
+        "x2": 454.0,
+        "y2": 214.0
+      },
+      "confidence": 0.977482114677076,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "اختصاص المجلس،",
+      "bbox": {
+        "x1": 366.0,
+        "y1": 222.0,
+        "x2": 443.0,
+        "y2": 234.0
+      },
+      "confidence": 0.9988734498620033,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١١- الإشراف على إعداد مشروع ميزانية المؤسسة والحساب الختامي والتقرير السنوي.",
+      "bbox": {
+        "x1": 135.0,
+        "y1": 240.0,
+        "x2": 454.0,
+        "y2": 257.0
+      },
+      "confidence": 0.9914798591381464,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وللمحافظ تفويض بعض صلاحياته إلى المسؤولين في المؤمسة.",
+      "bbox": {
+        "x1": 191.0,
+        "y1": 263.0,
+        "x2": 431.0,
+        "y2": 276.0
+      },
+      "confidence": 0.9988066293976524,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الثامنة:",
+      "bbox": {
+        "x1": 408.0,
+        "y1": 285.0,
+        "x2": 456.0,
+        "y2": 294.0
+      },
+      "confidence": 0.9799444044337553,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تكون للمؤمسة ميزانية مستقلة تصدر بمرسوم ملكي.",
+      "bbox": {
+        "x1": 237.0,
+        "y1": 305.0,
+        "x2": 431.0,
+        "y2": 318.0
+      },
+      "confidence": 0.9901741705042251,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة التأسعة :",
+      "bbox": {
+        "x1": 399.0,
+        "y1": 326.0,
+        "x2": 455.0,
+        "y2": 337.0
+      },
+      "confidence": 0.9483129911952548,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- تتكون أموال المؤمسة مما يلي:",
+      "bbox": {
+        "x1": 323.0,
+        "y1": 347.0,
+        "x2": 454.0,
+        "y2": 359.0
+      },
+      "confidence": 0.9805724566633051,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "أ - الأموال التي تخصصها لها الدولة.",
+      "bbox": {
+        "x1": 305.0,
+        "y1": 367.0,
+        "x2": 442.0,
+        "y2": 381.0
+      },
+      "confidence": 0.979040120099042,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ب- الأصول الثابتة والمنقولة التي تحت تصرفها.",
+      "bbox": {
+        "x1": 266.0,
+        "y1": 389.0,
+        "x2": 442.0,
+        "y2": 402.0
+      },
+      "confidence": 0.9759004427039105,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ب- الإيرادات التي تحققها من ممارسة نشاطها.",
+      "bbox": {
+        "x1": 270.0,
+        "y1": 408.0,
+        "x2": 443.0,
+        "y2": 423.0
+      },
+      "confidence": 0.9798849563707005,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "د- ربع أملاكها وما ينتج من استثمارها.",
+      "bbox": {
+        "x1": 292.0,
+        "y1": 429.0,
+        "x2": 442.0,
+        "y2": 443.0
+      },
+      "confidence": 0.9816636809935937,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "هـ الهمات والوصايا والأوقاف.",
+      "bbox": {
+        "x1": 329.0,
+        "y1": 450.0,
+        "x2": 442.0,
+        "y2": 462.0
+      },
+      "confidence": 0.9503745635350546,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "و- الموارد المالية الآخرى التي يقرها المجلس؛ على ألا تتعارض مع طبيعة نشاط المؤمسة.",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 469.0,
+        "x2": 442.0,
+        "y2": 484.0
+      },
+      "confidence": 0.9800213057370413,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢- تودع أموال المؤمسة في حساب مستقل لذى مؤمسة النقد العربي السعودي، ولها فتح",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 489.0,
+        "x2": 455.0,
+        "y2": 506.0
+      },
+      "confidence": 0.9748450120290121,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "حسابات في البنوك المرخص لها بالعمل في المملكة، ويصرف منها وفقاً لميزانية المؤسسة",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 511.0,
+        "x2": 440.0,
+        "y2": 525.0
+      },
+      "confidence": 0.9942206485969264,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ولوائحها المالية المعتمدة.",
+      "bbox": {
+        "x1": 345.0,
+        "y1": 532.0,
+        "x2": 440.0,
+        "y2": 545.0
+      },
+      "confidence": 0.9944569617509842,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990719795227,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "9/10",
+      "bbox": {
+        "x1": 555.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9711263418197632,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 30
+}

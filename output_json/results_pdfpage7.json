@@ -1,0 +1,411 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 15.0,
+        "x2": 382.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9956447953979174,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرفتم -",
+      "bbox": {
+        "x1": 178.0,
+        "y1": 46.0,
+        "x2": 209.0,
+        "y2": 57.0
+      },
+      "confidence": 0.8803209602832794,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "A12 / /",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 64.0,
+        "x2": 167.0,
+        "y2": 74.0
+      },
+      "confidence": 0.3765291968981425,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الثاريخ :",
+      "bbox": {
+        "x1": 171.0,
+        "y1": 64.0,
+        "x2": 208.0,
+        "y2": 75.0
+      },
+      "confidence": 0.9037264856425199,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "اللرفقات :--",
+      "bbox": {
+        "x1": 174.0,
+        "y1": 83.0,
+        "x2": 208.0,
+        "y2": 92.0
+      },
+      "confidence": 0.9170648200171334,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٧- الموافقة على إنشاء وحدات التدريب في مناطق المملكة المختلفة بما يتفق مع خطط",
+      "bbox": {
+        "x1": 108.0,
+        "y1": 118.0,
+        "x2": 447.0,
+        "y2": 131.0
+      },
+      "confidence": 0.9959501752370521,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التنمية الوطنية.",
+      "bbox": {
+        "x1": 375.0,
+        "y1": 140.0,
+        "x2": 433.0,
+        "y2": 150.0
+      },
+      "confidence": 0.9859152303801643,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٨- إقرار مشروع ميزانية المؤسسة السنوية، وحسابها الختامي، وتقرير مراجع حساباتها،",
+      "bbox": {
+        "x1": 108.0,
+        "y1": 158.0,
+        "x2": 445.0,
+        "y2": 173.0
+      },
+      "confidence": 0.9907814389393653,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وتقريرها السنوي، والرفع عنها وفق الإجراءات النظامية المتبعة.",
+      "bbox": {
+        "x1": 207.0,
+        "y1": 181.0,
+        "x2": 432.0,
+        "y2": 194.0
+      },
+      "confidence": 0.9924176662198959,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٩- تعيين المراقب المألى الداخلي للمؤسسة.",
+      "bbox": {
+        "x1": 281.0,
+        "y1": 201.0,
+        "x2": 444.0,
+        "y2": 214.0
+      },
+      "confidence": 0.9875011813072931,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٠١- تعبين مديري وحدات التدريب المختلفة.",
+      "bbox": {
+        "x1": 272.0,
+        "y1": 222.0,
+        "x2": 444.0,
+        "y2": 235.0
+      },
+      "confidence": 0.9402471380989726,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١١- تطوير الموارد البشرية في المؤمسة بالإيفاد والابتعاث والتدريب في الداخل والخارج .",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 242.0,
+        "x2": 444.0,
+        "y2": 255.0
+      },
+      "confidence": 0.9887572769508806,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٢- إقرار القواعد المتعلقة بالرخص، والتصاريح، والخدمات، والأعمال، التي تقدمها المؤسسة،",
+      "bbox": {
+        "x1": 106.0,
+        "y1": 260.0,
+        "x2": 445.0,
+        "y2": 277.0
+      },
+      "confidence": 0.9929246292872862,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وتحديد المقابل المالي لها.",
+      "bbox": {
+        "x1": 322.0,
+        "y1": 284.0,
+        "x2": 426.0,
+        "y2": 296.0
+      },
+      "confidence": 0.9977426763091769,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٣- الموافقة على شراء العقارات وبيعها لمصلحة المؤسسة بما يتفق مع أهدافها.",
+      "bbox": {
+        "x1": 151.0,
+        "y1": 304.0,
+        "x2": 446.0,
+        "y2": 317.0
+      },
+      "confidence": 0.991489634513855,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٤ ١- قبول الهبات والوصايا والأوقاف.",
+      "bbox": {
+        "x1": 309.0,
+        "y1": 324.0,
+        "x2": 446.0,
+        "y2": 337.0
+      },
+      "confidence": 0.9072483520250063,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٥١- تعيين نائب (أو أكثر) للمحافظ وفق الإجراءات المتبعة .",
+      "bbox": {
+        "x1": 221.0,
+        "y1": 345.0,
+        "x2": 445.0,
+        "y2": 357.0
+      },
+      "confidence": 0.9496673330150801,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٦- تشكيل لجان متفرعة من المجلس وتخويلها الصلاحيات اللازمة لإنجاز المهمات المنوطة",
+      "bbox": {
+        "x1": 108.0,
+        "y1": 365.0,
+        "x2": 446.0,
+        "y2": 378.0
+      },
+      "confidence": 0.9893581159861691,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بها.",
+      "bbox": {
+        "x1": 410.0,
+        "y1": 389.0,
+        "x2": 426.0,
+        "y2": 399.0
+      },
+      "confidence": 0.686499704917272,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٧ - تفويض بعض الصلاحيات إلى المحافظ أو غيره من مسؤولي المؤمسة.",
+      "bbox": {
+        "x1": 167.0,
+        "y1": 407.0,
+        "x2": 444.0,
+        "y2": 419.0
+      },
+      "confidence": 0.9814278841018677,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة السادسة:",
+      "bbox": {
+        "x1": 392.0,
+        "y1": 427.0,
+        "x2": 445.0,
+        "y2": 438.0
+      },
+      "confidence": 0.9684449083664838,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- تعقد اجتماعات المجلس في مقر المؤسسة الرئيس، ويجوز انعقادها في أي مكان آخر من",
+      "bbox": {
+        "x1": 106.0,
+        "y1": 446.0,
+        "x2": 444.0,
+        "y2": 461.0
+      },
+      "confidence": 0.9928946340525592,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المملكة عند الحاجة.",
+      "bbox": {
+        "x1": 354.0,
+        "y1": 469.0,
+        "x2": 432.0,
+        "y2": 479.0
+      },
+      "confidence": 0.991591921874455,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢- يدعو الرئيس إلى عقد اجتماع للمجلس مرة واحدة على الاقل كل سنة أشهر، وله دعوة",
+      "bbox": {
+        "x1": 106.0,
+        "y1": 486.0,
+        "x2": 444.0,
+        "y2": 502.0
+      },
+      "confidence": 0.9153758175671101,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المجلس إلى عقد جلسة طارئة كلما رأى ضرورة ذلك، أو إذا طلب منه ذلك - كتابة -",
+      "bbox": {
+        "x1": 106.0,
+        "y1": 507.0,
+        "x2": 427.0,
+        "y2": 522.0
+      },
+      "confidence": 0.9921761139443046,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "أربعة من أعضاء المجلس على الآقل، على أن يوجه الدعوة - في هذه الحالة - خلال",
+      "bbox": {
+        "x1": 106.0,
+        "y1": 528.0,
+        "x2": 428.0,
+        "y2": 541.0
+      },
+      "confidence": 0.9860077810130621,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990719795227,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "7/10",
+      "bbox": {
+        "x1": 555.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9326490521430969,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 29
+}

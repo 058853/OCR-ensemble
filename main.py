@@ -6,6 +6,7 @@ import argparse
 from pathlib import Path
 from PIL import Image
 from typing import List, Optional
+import json
 
 from ocr_models import TesseractOCR, PaddleOCRModel, SuryaOCR, DeepSeekOCR
 from ensemble import OCREnsemble
@@ -151,6 +152,12 @@ class OCRApp:
             if result.reason:
                 print(f"  Reason: {result.reason}")
 
+def save_results(results: List[ReconciledResult], output_path: str):    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump({
+            "results": [r.to_dict() for r in results],
+            "total_regions": len(results)
+        }, f, indent=2, ensure_ascii=False)
 
 def main():
     """Main entry point"""
@@ -171,9 +178,25 @@ def main():
     # Initialize app
     app = OCRApp(use_llm=not args.no_llm, llm_model=args.llm_model)
     
+
+    folder = Path('output_images')
+    json_folder = Path('output_json')
+    json_folder.mkdir(exist_ok=True)
+
+    for img in folder.glob('*.png'):
+        print(f"Processing {img}...")
+        results = app.process_image(str(img), None)
+        out_path = json_folder / f"results_{img.stem}.json"
+        save_results(results, str(out_path))
+        print(f"Results saved to {out_path}")
+
+
+
     # Process image
     results = app.process_image(args.image, args.output)
     
+    save_results(results, 'results.json')
+
     # Print results
     app.print_results(results)
 

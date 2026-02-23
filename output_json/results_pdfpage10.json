@@ -1,0 +1,341 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 14.0,
+        "x2": 383.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9950998028119405,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تناسلاء الحنا",
+      "bbox": {
+        "x1": 256.0,
+        "y1": 32.0,
+        "x2": 307.0,
+        "y2": 44.0
+      },
+      "confidence": 0.30623967250188194,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرهشم ...",
+      "bbox": {
+        "x1": 178.0,
+        "y1": 54.0,
+        "x2": 214.0,
+        "y2": 63.0
+      },
+      "confidence": 0.6896790762742361,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المثاريخ . / /",
+      "bbox": {
+        "x1": 121.0,
+        "y1": 70.0,
+        "x2": 214.0,
+        "y2": 83.0
+      },
+      "confidence": 0.9566481560468674,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "314",
+      "bbox": {
+        "x1": 102.0,
+        "y1": 71.0,
+        "x2": 121.0,
+        "y2": 81.0
+      },
+      "confidence": 0.6710741370916367,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المرفقات :--",
+      "bbox": {
+        "x1": 177.0,
+        "y1": 90.0,
+        "x2": 213.0,
+        "y2": 99.0
+      },
+      "confidence": 0.6106928970132556,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة العاشرة",
+      "bbox": {
+        "x1": 405.0,
+        "y1": 126.0,
+        "x2": 455.0,
+        "y2": 136.0
+      },
+      "confidence": 0.9948327951133251,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "السنة المالية للمؤسسة هي السنة المالية للدولة.",
+      "bbox": {
+        "x1": 256.0,
+        "y1": 145.0,
+        "x2": 429.0,
+        "y2": 159.0
+      },
+      "confidence": 0.998326608290275,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الحادبة عشرة:",
+      "bbox": {
+        "x1": 380.0,
+        "y1": 168.0,
+        "x2": 455.0,
+        "y2": 178.0
+      },
+      "confidence": 0.9639676728031852,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات المؤمسة، يعين",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 187.0,
+        "x2": 428.0,
+        "y2": 202.0
+      },
+      "confidence": 0.9994458793065487,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المجلس مراجع حسابات خارجياً (أو أكثر) لمراجعة حسابات المؤسسة من الأشخاص ذوي",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 208.0,
+        "x2": 454.0,
+        "y2": 223.0
+      },
+      "confidence": 0.9944583038230995,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الصفة الطبيعية أو الاعتبارية المرخص لهم بالعمل في المملكة، ويحدد أتعابه (أتعابهم). وعند",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 229.0,
+        "x2": 454.0,
+        "y2": 243.0
+      },
+      "confidence": 0.9934313638826434,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تعدد مراجع الحسابات فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام المؤسسة. ويرفع",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 250.0,
+        "x2": 454.0,
+        "y2": 265.0
+      },
+      "confidence": 0.9992758500866774,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تقرير مراجع الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه.",
+      "bbox": {
+        "x1": 178.0,
+        "y1": 270.0,
+        "x2": 454.0,
+        "y2": 284.0
+      },
+      "confidence": 0.9983219977927534,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الثانية عشرة:",
+      "bbox": {
+        "x1": 385.0,
+        "y1": 292.0,
+        "x2": 455.0,
+        "y2": 303.0
+      },
+      "confidence": 0.9619153602556749,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "يحل هذا التنظيم محل نظام المؤسسة العامة للتعليم الفنى والتدريب المهنى، الصادر",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 312.0,
+        "x2": 429.0,
+        "y2": 327.0
+      },
+      "confidence": 0.9957499247563036,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بالمرسوم الملكى رقم (م٣٠/) وتاريخ ١٤٠٠/٨/١٠هـ، ويلغي كل ما يتعارض معه من",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 333.0,
+        "x2": 455.0,
+        "y2": 348.0
+      },
+      "confidence": 0.9526375411330043,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "أحكام.",
+      "bbox": {
+        "x1": 429.0,
+        "y1": 356.0,
+        "x2": 455.0,
+        "y2": 368.0
+      },
+      "confidence": 0.8889910578727722,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الثالثة عشرة،",
+      "bbox": {
+        "x1": 387.0,
+        "y1": 375.0,
+        "x2": 455.0,
+        "y2": 385.0
+      },
+      "confidence": 0.9744034192778848,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ينشر هذا التنظيم في الجريدة الرسمية، ويعمل به بعد مضي ثلاثين يوماً من تاريخ",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 394.0,
+        "x2": 429.0,
+        "y2": 410.0
+      },
+      "confidence": 0.9990934443164181,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "نشره.",
+      "bbox": {
+        "x1": 433.0,
+        "y1": 418.0,
+        "x2": 455.0,
+        "y2": 428.0
+      },
+      "confidence": 0.9574810181345258,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990777015686,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "10/10",
+      "bbox": {
+        "x1": 552.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9830206334590912,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 24
+}

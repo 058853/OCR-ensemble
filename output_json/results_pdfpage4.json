@@ -1,0 +1,425 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 14.0,
+        "x2": 383.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9950998028119405,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "والمنافع الحالم",
+      "bbox": {
+        "x1": 254.0,
+        "y1": 34.0,
+        "x2": 301.0,
+        "y2": 44.0
+      },
+      "confidence": 0.34775210654034333,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرهنم ..",
+      "bbox": {
+        "x1": 176.0,
+        "y1": 47.0,
+        "x2": 209.0,
+        "y2": 59.0
+      },
+      "confidence": 0.9811892292716287,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الماريخ: / الم",
+      "bbox": {
+        "x1": 97.0,
+        "y1": 65.0,
+        "x2": 209.0,
+        "y2": 77.0
+      },
+      "confidence": 0.7629831694066525,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المرفقات",
+      "bbox": {
+        "x1": 136.0,
+        "y1": 84.0,
+        "x2": 208.0,
+        "y2": 94.0
+      },
+      "confidence": 0.9716148853302002,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تنظيم المؤمسة العامة للتدريب التقنى والمهنى",
+      "bbox": {
+        "x1": 190.0,
+        "y1": 123.0,
+        "x2": 359.0,
+        "y2": 136.0
+      },
+      "confidence": 0.9975414276123047,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الأولى:",
+      "bbox": {
+        "x1": 393.0,
+        "y1": 142.0,
+        "x2": 445.0,
+        "y2": 153.0
+      },
+      "confidence": 0.8756445087492466,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "يقصد بالعبارات والمصطلحات التالية - أينما وردت في هذا التنظيم - المعاني",
+      "bbox": {
+        "x1": 105.0,
+        "y1": 161.0,
+        "x2": 421.0,
+        "y2": 179.0
+      },
+      "confidence": 0.9954314411502995,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الموضحة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+      "bbox": {
+        "x1": 233.0,
+        "y1": 182.0,
+        "x2": 445.0,
+        "y2": 197.0
+      },
+      "confidence": 0.9993822703174516,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التنظيم: تنظيم المؤسسة العامة للتدريب التقتى والمهنى.",
+      "bbox": {
+        "x1": 236.0,
+        "y1": 201.0,
+        "x2": 445.0,
+        "y2": 217.0
+      },
+      "confidence": 0.9925636399875988,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المؤمسة: المؤمسة العامة للتدريب التقنى والمهنى.",
+      "bbox": {
+        "x1": 258.0,
+        "y1": 222.0,
+        "x2": 446.0,
+        "y2": 236.0
+      },
+      "confidence": 0.9922785114268867,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التدريب: برامج غير أكاديمية - مختلفة الأشكال والمستويات والصدد - تهدف إلى إكساب",
+      "bbox": {
+        "x1": 105.0,
+        "y1": 240.0,
+        "x2": 446.0,
+        "y2": 258.0
+      },
+      "confidence": 0.9984466602772842,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الفرد مهارات ومعارف تطبيقية تقنية أو مهنية.",
+      "bbox": {
+        "x1": 277.0,
+        "y1": 262.0,
+        "x2": 446.0,
+        "y2": 274.0
+      },
+      "confidence": 0.9894833140903049,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وحدات التدريب: الأماكن أو المنشآت التي تُدرب فيها المؤسسة، بمختلف أنماطها التنظيمية",
+      "bbox": {
+        "x1": 105.0,
+        "y1": 279.0,
+        "x2": 446.0,
+        "y2": 299.0
+      },
+      "confidence": 0.9949259877204895,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وأسمائها وأماكنها.",
+      "bbox": {
+        "x1": 377.0,
+        "y1": 302.0,
+        "x2": 447.0,
+        "y2": 314.0
+      },
+      "confidence": 0.9960453569889068,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المجلس: مجلس إدارة المؤمسة.",
+      "bbox": {
+        "x1": 329.0,
+        "y1": 322.0,
+        "x2": 448.0,
+        "y2": 334.0
+      },
+      "confidence": 0.9849939510740083,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرئيس: رئيس المجلس.",
+      "bbox": {
+        "x1": 354.0,
+        "y1": 342.0,
+        "x2": 448.0,
+        "y2": 354.0
+      },
+      "confidence": 0.9946095889264887,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المحافظ: محافظ المؤسسة.",
+      "bbox": {
+        "x1": 349.0,
+        "y1": 361.0,
+        "x2": 448.0,
+        "y2": 373.0
+      },
+      "confidence": 0.9977773714065552,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الثانية:",
+      "bbox": {
+        "x1": 400.0,
+        "y1": 382.0,
+        "x2": 448.0,
+        "y2": 392.0
+      },
+      "confidence": 0.9799143531743217,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تتمتع المؤمسة بشخصية اعتبارية عامة مستقلة مالياً وإدارياً، ويكون مقرها الرئيس في",
+      "bbox": {
+        "x1": 108.0,
+        "y1": 401.0,
+        "x2": 423.0,
+        "y2": 416.0
+      },
+      "confidence": 0.9987831566391921,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "مدينة الرياض، ولها أن تنشئ فروعاً في مناطق المملكة المختلفة.",
+      "bbox": {
+        "x1": 209.0,
+        "y1": 419.0,
+        "x2": 448.0,
+        "y2": 435.0
+      },
+      "confidence": 0.9985102395857534,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الثالثة:",
+      "bbox": {
+        "x1": 402.0,
+        "y1": 440.0,
+        "x2": 449.0,
+        "y2": 450.0
+      },
+      "confidence": 0.9872630273594576,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تهدف المؤسسة إلى تنمية الموارد البشرية الوطنية من خلال التدريب، بما يسهم في سد",
+      "bbox": {
+        "x1": 107.0,
+        "y1": 458.0,
+        "x2": 423.0,
+        "y2": 475.0
+      },
+      "confidence": 0.9967747569084168,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "احتياجات سوق العمل من القوى البشرية المؤهلة. ولها في سبيل تحقيق ذلك - دون حصر -",
+      "bbox": {
+        "x1": 107.0,
+        "y1": 479.0,
+        "x2": 449.0,
+        "y2": 493.0
+      },
+      "confidence": 0.9976724356780817,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "القيام بما يلي:",
+      "bbox": {
+        "x1": 393.0,
+        "y1": 500.0,
+        "x2": 449.0,
+        "y2": 512.0
+      },
+      "confidence": 0.9737971460118013,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- إعداد السياسات والخطط العامة للتدريب ومراجعتها وتطويرها وفقاً لما تقتضيه خطط التنمية",
+      "bbox": {
+        "x1": 107.0,
+        "y1": 518.0,
+        "x2": 450.0,
+        "y2": 533.0
+      },
+      "confidence": 0.9919975279422288,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الوطنية.",
+      "bbox": {
+        "x1": 406.0,
+        "y1": 539.0,
+        "x2": 435.0,
+        "y2": 550.0
+      },
+      "confidence": 0.9651780009269715,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990777015686,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "4/10",
+      "bbox": {
+        "x1": 554.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9647360682487488,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 30
+}

@@ -1,0 +1,215 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 84.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9993842873308394,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 14.0,
+        "x2": 383.0,
+        "y2": 24.0
+      },
+      "confidence": 0.9939694255590439,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "יקלט ליקיעליא",
+      "bbox": {
+        "x1": 255.0,
+        "y1": 25.0,
+        "x2": 310.0,
+        "y2": 37.0
+      },
+      "confidence": 0.21788929800192516,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المات العرب الشعورين",
+      "bbox": {
+        "x1": 347.0,
+        "y1": 53.0,
+        "x2": 460.0,
+        "y2": 66.0
+      },
+      "confidence": 0.41686606339432974,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بحنشلث الوذولة",
+      "bbox": {
+        "x1": 371.0,
+        "y1": 72.0,
+        "x2": 437.0,
+        "y2": 87.0
+      },
+      "confidence": 0.36183566227555275,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الفائنالكاني",
+      "bbox": {
+        "x1": 378.0,
+        "y1": 95.0,
+        "x2": 433.0,
+        "y2": 108.0
+      },
+      "confidence": 0.8209064688001361,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ثاثثاً: استمرار العمل باللوائح الحالية للمؤسسة والقبرارات الأخبري إلى حين",
+      "bbox": {
+        "x1": 117.0,
+        "y1": 122.0,
+        "x2": 455.0,
+        "y2": 138.0
+      },
+      "confidence": 0.9879801424344381,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "إقرار اللوائح الجديدة بموجب التنظيم المشار إليه ، على أن يكون ذلك يُّ",
+      "bbox": {
+        "x1": 118.0,
+        "y1": 147.0,
+        "x2": 427.0,
+        "y2": 162.0
+      },
+      "confidence": 0.9969019344155218,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "مدة لا تتجاوز ثلاثة أشهر من تاريخ العمل بالتنظيم .",
+      "bbox": {
+        "x1": 196.0,
+        "y1": 170.0,
+        "x2": 426.0,
+        "y2": 184.0
+      },
+      "confidence": 0.996196346787306,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "رابعاً: يخبضع منسوبو المؤسسة للأحكام المواضق عليها بالأمر السامي رقم",
+      "bbox": {
+        "x1": 118.0,
+        "y1": 191.0,
+        "x2": 455.0,
+        "y2": 206.0
+      },
+      "confidence": 0.987026687179293,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "(۵٤٦٤م ب) وتاريخ ۲۰/۱۲۲۱هـ .",
+      "bbox": {
+        "x1": 275.0,
+        "y1": 210.0,
+        "x2": 426.0,
+        "y2": 228.0
+      },
+      "confidence": 0.8904387305180231,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "رئيس",
+      "bbox": {
+        "x1": 178.0,
+        "y1": 285.0,
+        "x2": 206.0,
+        "y2": 296.0
+      },
+      "confidence": 0.9875768780708313,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ì",
+      "bbox": {
+        "x1": 455.0,
+        "y1": 594.0,
+        "x2": 461.0,
+        "y2": 603.0
+      },
+      "confidence": 0.5060621500015259,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 816.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.989684310913086,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "3/10",
+      "bbox": {
+        "x1": 554.0,
+        "y1": 816.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9814175605773926,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 15
+}

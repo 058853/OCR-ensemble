@@ -1,0 +1,383 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 15.0,
+        "x2": 382.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9956447904308637,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "قرار رقم : (١٦٩)",
+      "bbox": {
+        "x1": 153.0,
+        "y1": 114.0,
+        "x2": 218.0,
+        "y2": 128.0
+      },
+      "confidence": 0.9527414176199172,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وتاريــخ: ۲۰/۲۸/۲۰هـ",
+      "bbox": {
+        "x1": 121.0,
+        "y1": 136.0,
+        "x2": 218.0,
+        "y2": 148.0
+      },
+      "confidence": 0.8963763768022711,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "والمتعلى الوزراء",
+      "bbox": {
+        "x1": 390.0,
+        "y1": 170.0,
+        "x2": 458.0,
+        "y2": 182.0
+      },
+      "confidence": 0.9416019982761807,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ان مجلس الوزراء",
+      "bbox": {
+        "x1": 406.0,
+        "y1": 194.0,
+        "x2": 476.0,
+        "y2": 207.0
+      },
+      "confidence": 0.9924840366139132,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٧٠٩١ وتناريخ ١٤٣٨/٢/٩هـ ، المشتملة",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 219.0,
+        "x2": 475.0,
+        "y2": 233.0
+      },
+      "confidence": 0.990125958038413,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "على برقية معالى وزبر التعليم رئيس مجلس إدارة المؤسسة العامة للتدريب التقني والمهني رقم",
+      "bbox": {
+        "x1": 100.0,
+        "y1": 245.0,
+        "x2": 474.0,
+        "y2": 258.0
+      },
+      "confidence": 0.9892819733782248,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢١٥٢٥/٢ وتساريخ ٢١٤٣٨/٢/٢هـ ، في شأن طلب تعديل الفقرة (١) من المسادة (الرابعة) من",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 268.0,
+        "x2": 474.0,
+        "y2": 284.0
+      },
+      "confidence": 0.94814285707761,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تنظيم المؤسسة الصادر بقرار مجلس الوزراء رقم ( ٢٦٨ ) وتناريخ ١٤٢٨/٨/١٤ ه.",
+      "bbox": {
+        "x1": 156.0,
+        "y1": 295.0,
+        "x2": 474.0,
+        "y2": 308.0
+      },
+      "confidence": 0.9926175483175226,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وبعد الاطلاع على الفقرة ( ٢ ) من المادة ( ٢٤ ) من نظام مجلس الوزراء ، الصادر بـالأمر الملكي",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 320.0,
+        "x2": 475.0,
+        "y2": 333.0
+      },
+      "confidence": 0.9776264563683541,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "رقم (۱۲/۱) وتاريخ ۱٤١٤/٢/٢ هـ .",
+      "bbox": {
+        "x1": 339.0,
+        "y1": 345.0,
+        "x2": 476.0,
+        "y2": 357.0
+      },
+      "confidence": 0.9198625593474417,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وبعد الاطلاع على تنظيم المؤسسة العامة للتدريب التقني والمهني ، الصادر بقرار مجلس",
+      "bbox": {
+        "x1": 100.0,
+        "y1": 367.0,
+        "x2": 475.0,
+        "y2": 383.0
+      },
+      "confidence": 0.9353965666235947,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الوزراء رقم ( ۲٦٨ ) وتاريخ ١٤٢٨/٨/١٤هـ .",
+      "bbox": {
+        "x1": 301.0,
+        "y1": 395.0,
+        "x2": 475.0,
+        "y2": 407.0
+      },
+      "confidence": 0.8893246324289412,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وبعد الاطلاع على المحضر رقم ( ٦٠٨ ) وتناريخ ١٤٣٨/٥/٢٤هـ ، المعد في هيئة الخبراء بمجلس الوزراء .",
+      "bbox": {
+        "x1": 103.0,
+        "y1": 420.0,
+        "x2": 475.0,
+        "y2": 432.0
+      },
+      "confidence": 0.9627009567218957,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وبعسد الاطسلاع علسي القوصيية المعسدة في مجلس الشسؤون الافتصسادية والتنميسة رقسه",
+      "bbox": {
+        "x1": 103.0,
+        "y1": 442.0,
+        "x2": 474.0,
+        "y2": 458.0
+      },
+      "confidence": 0.9595011373360952,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "(٦-٨٢/٨٦/٤) وتناريخ ٢٨/٨٨/١٤.",
+      "bbox": {
+        "x1": 319.0,
+        "y1": 469.0,
+        "x2": 476.0,
+        "y2": 482.0
+      },
+      "confidence": 0.6536215668724429,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم ( 2819 ) وتناريخ 2/228 4.",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 495.0,
+        "x2": 475.0,
+        "y2": 507.0
+      },
+      "confidence": 0.9914276447237992,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بقرر",
+      "bbox": {
+        "x1": 274.0,
+        "y1": 520.0,
+        "x2": 298.0,
+        "y2": 531.0
+      },
+      "confidence": 0.6970238566398621,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "تعديل الفقرة (١) من المادة (الرابعة) من تنظيم المؤسسة العامة للتدريب التقني والمهنى",
+      "bbox": {
+        "x1": 99.0,
+        "y1": 542.0,
+        "x2": 474.0,
+        "y2": 558.0
+      },
+      "confidence": 0.9922510090996237,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الصادر بقرار مجلس الوزراء رقم ( ٢٦٨ ) وتاريخ ١٤٢٨/٨/١٤ . لتكون بالنص الأتي :",
+      "bbox": {
+        "x1": 129.0,
+        "y1": 567.0,
+        "x2": 475.0,
+        "y2": 583.0
+      },
+      "confidence": 0.9877274533112844,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٠ يكون للمؤسسة مجلس إدارة يشكل على النحو الآتى :",
+      "bbox": {
+        "x1": 237.0,
+        "y1": 591.0,
+        "x2": 475.0,
+        "y2": 607.0
+      },
+      "confidence": 0.9692742362910626,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "أ - وزير التعليم",
+      "bbox": {
+        "x1": 393.0,
+        "y1": 619.0,
+        "x2": 475.0,
+        "y2": 630.0
+      },
+      "confidence": 0.9128524396154616,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "نائبا للرئيس",
+      "bbox": {
+        "x1": 103.0,
+        "y1": 643.0,
+        "x2": 156.0,
+        "y2": 655.0
+      },
+      "confidence": 0.758645909173148,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "u - المعافظ",
+      "bbox": {
+        "x1": 411.0,
+        "y1": 643.0,
+        "x2": 474.0,
+        "y2": 655.0
+      },
+      "confidence": 0.46003416712794987,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 469.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9967364401817321,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "1/10",
+      "bbox": {
+        "x1": 556.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9085949778556823,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 27
+}

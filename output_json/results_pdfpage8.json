@@ -1,0 +1,425 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 300.0,
+        "y1": 15.0,
+        "x2": 383.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9954919790228208,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "فنلقالة الخثا",
+      "bbox": {
+        "x1": 258.0,
+        "y1": 36.0,
+        "x2": 304.0,
+        "y2": 49.0
+      },
+      "confidence": 0.499053669827325,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرهشم",
+      "bbox": {
+        "x1": 183.0,
+        "y1": 54.0,
+        "x2": 214.0,
+        "y2": 63.0
+      },
+      "confidence": 0.591990556035723,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الم الكالعَيْثُ السَّعَوْدُ",
+      "bbox": {
+        "x1": 351.0,
+        "y1": 56.0,
+        "x2": 460.0,
+        "y2": 71.0
+      },
+      "confidence": 0.3471620432261763,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المثارين / / عاهر",
+      "bbox": {
+        "x1": 104.0,
+        "y1": 69.0,
+        "x2": 214.0,
+        "y2": 82.0
+      },
+      "confidence": 0.561795750730916,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المفغات ا",
+      "bbox": {
+        "x1": 181.0,
+        "y1": 90.0,
+        "x2": 213.0,
+        "y2": 99.0
+      },
+      "confidence": 0.5154547572135926,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الخمسة عشر يوماً التالية لتقديم الطلب. ويجب أن تشتمل الدعوة في كل الأحوال على",
+      "bbox": {
+        "x1": 113.0,
+        "y1": 124.0,
+        "x2": 432.0,
+        "y2": 140.0
+      },
+      "confidence": 0.99524953848199,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "- Let laal Il + ral .",
+      "bbox": {
+        "x1": 345.0,
+        "y1": 147.0,
+        "x2": 432.0,
+        "y2": 158.0
+      },
+      "confidence": 0.34817686417828436,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٣- يشترط لصحة الاجتماع حضور أغلبية الاعضاء، على أن يكون من بينهم الرئيس أو نائبه.",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 165.0,
+        "x2": 452.0,
+        "y2": 181.0
+      },
+      "confidence": 0.9956700435603958,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وللمجلس أن يدعو لحضور اجتماعاته من يرى الاستعانة بخبراتهم ومعلوماتهم دون أن",
+      "bbox": {
+        "x1": 113.0,
+        "y1": 188.0,
+        "x2": 436.0,
+        "y2": 200.0
+      },
+      "confidence": 0.9927082797149559,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "يكون لهم حق التصويت.",
+      "bbox": {
+        "x1": 342.0,
+        "y1": 208.0,
+        "x2": 435.0,
+        "y2": 221.0
+      },
+      "confidence": 0.9933543611656536,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٤- تصدر ترارات المجلس بأغلبية أصوات الحاضرين، وفي حالة تساوي الاصوات يسرجح",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 226.0,
+        "x2": 449.0,
+        "y2": 241.0
+      },
+      "confidence": 0.9715967617536846,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الجانب الذي يصوت معه رئيس الاجتماع. ولا يجوز للعضو تفويض شخص آخر للتصويت",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 246.0,
+        "x2": 435.0,
+        "y2": 262.0
+      },
+      "confidence": 0.9950687514769064,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عند عنابه. وللعضو تسجيل وجهة نظره المخالفة لرأي أغلبية الأعضاء في المحضر المعد",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 269.0,
+        "x2": 435.0,
+        "y2": 282.0
+      },
+      "confidence": 0.9407541152089834,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "لضبط مداولات المجلس.",
+      "bbox": {
+        "x1": 343.0,
+        "y1": 290.0,
+        "x2": 436.0,
+        "y2": 302.0
+      },
+      "confidence": 0.9857963025569916,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٥- لا يجوز للعضو أن يفشى شيئاً مما وقف عليه من أسرار المؤسسة.",
+      "bbox": {
+        "x1": 193.0,
+        "y1": 307.0,
+        "x2": 450.0,
+        "y2": 325.0
+      },
+      "confidence": 0.9774328735139635,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة السابعة :",
+      "bbox": {
+        "x1": 397.0,
+        "y1": 332.0,
+        "x2": 451.0,
+        "y2": 343.0
+      },
+      "confidence": 0.9646176166004605,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "يكون للمؤسسة محافظ يعين بالمرتبة الممتازة بناء على اقتراح من الرئيس، وهو",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 351.0,
+        "x2": 425.0,
+        "y2": 365.0
+      },
+      "confidence": 0.9915168929744411,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرئيس التنفيذي للمؤمسة، ويتولى إدارة شؤونها وتصريف أمورها وفقاً للأحكام الواردة في هذا",
+      "bbox": {
+        "x1": 111.0,
+        "y1": 370.0,
+        "x2": 450.0,
+        "y2": 387.0
+      },
+      "confidence": 0.9975260871179988,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التنظيم، ويكون مسؤولاً أمام المجلس عن الاعمال والمهمات التي ينفذها، وله بوجه خاص ما",
+      "bbox": {
+        "x1": 112.0,
+        "y1": 390.0,
+        "x2": 450.0,
+        "y2": 407.0
+      },
+      "confidence": 0.9979157574036542,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "يلى:",
+      "bbox": {
+        "x1": 430.0,
+        "y1": 416.0,
+        "x2": 450.0,
+        "y2": 427.0
+      },
+      "confidence": 0.7006460428237915,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- الاعداد لاجتماعات المجلس ولجانه المتفرعة.",
+      "bbox": {
+        "x1": 274.0,
+        "y1": 433.0,
+        "x2": 449.0,
+        "y2": 445.0
+      },
+      "confidence": 0.9798825344313746,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢- تنفيذ قرارات المجلس ومتابعتها وإطلاع المجلس على ما تم في شأنها.",
+      "bbox": {
+        "x1": 182.0,
+        "y1": 453.0,
+        "x2": 450.0,
+        "y2": 467.0
+      },
+      "confidence": 0.9889787672197118,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٣- ترشيح مراقب مالى داخلى للمؤمسة.",
+      "bbox": {
+        "x1": 301.0,
+        "y1": 474.0,
+        "x2": 450.0,
+        "y2": 487.0
+      },
+      "confidence": 0.9783957898616791,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٤- تقديم تقارير دورية للمجلس عن أعمال المؤسسة ومنجزاتها ونشاطاتها.",
+      "bbox": {
+        "x1": 183.0,
+        "y1": 494.0,
+        "x2": 449.0,
+        "y2": 507.0
+      },
+      "confidence": 0.9712100842947601,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ممارسة صلاحيات رئيس الدائرة المستقلة فيما يتعلق بتدبير الأمور المالية للمؤمسة.",
+      "bbox": {
+        "x1": 134.0,
+        "y1": 514.0,
+        "x2": 449.0,
+        "y2": 526.0
+      },
+      "confidence": 0.9745648034981319,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٦- تمثيل المؤسسة في صلاتها بالآخرين وأمام القضاء.",
+      "bbox": {
+        "x1": 250.0,
+        "y1": 533.0,
+        "x2": 448.0,
+        "y2": 548.0
+      },
+      "confidence": 0.989442743507086,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 469.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9967364392280579,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "8/10",
+      "bbox": {
+        "x1": 555.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9827005505561829,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 30
+}

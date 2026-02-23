@@ -1,0 +1,495 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 14.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9992950227525499,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 301.0,
+        "y1": 14.0,
+        "x2": 382.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9955781002839407,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "فتنافعان ألحق",
+      "bbox": {
+        "x1": 259.0,
+        "y1": 28.0,
+        "x2": 309.0,
+        "y2": 40.0
+      },
+      "confidence": 0.3375662217537562,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الموهشم ا",
+      "bbox": {
+        "x1": 183.0,
+        "y1": 50.0,
+        "x2": 215.0,
+        "y2": 60.0
+      },
+      "confidence": 0.9461063254963268,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التلالغ كالشعاب",
+      "bbox": {
+        "x1": 339.0,
+        "y1": 53.0,
+        "x2": 459.0,
+        "y2": 67.0
+      },
+      "confidence": 0.4541610803674249,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "1 / : 2014",
+      "bbox": {
+        "x1": 133.0,
+        "y1": 67.0,
+        "x2": 215.0,
+        "y2": 78.0
+      },
+      "confidence": 0.7374963381073691,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "314",
+      "bbox": {
+        "x1": 105.0,
+        "y1": 68.0,
+        "x2": 121.0,
+        "y2": 77.0
+      },
+      "confidence": 0.6456716805696487,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "HOUSE MEETING TO",
+      "bbox": {
+        "x1": 345.0,
+        "y1": 76.0,
+        "x2": 454.0,
+        "y2": 88.0
+      },
+      "confidence": 0.6210717045598559,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرفقات ...",
+      "bbox": {
+        "x1": 179.0,
+        "y1": 87.0,
+        "x2": 214.0,
+        "y2": 96.0
+      },
+      "confidence": 0.7455525214855487,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢- تأهيل المدربين التقنيين والمهنيين، وتطويرهم.",
+      "bbox": {
+        "x1": 257.0,
+        "y1": 116.0,
+        "x2": 448.0,
+        "y2": 128.0
+      },
+      "confidence": 0.9595388166002325,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٣- تصميم برامج التدريب، وتنفيذها.",
+      "bbox": {
+        "x1": 306.0,
+        "y1": 134.0,
+        "x2": 448.0,
+        "y2": 148.0
+      },
+      "confidence": 0.9928554892539978,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "إلى الترخيص للقطاع الخاص بالتدريب، والإشراف عليه، وتحديد معاييره الفنية.",
+      "bbox": {
+        "x1": 153.0,
+        "y1": 155.0,
+        "x2": 447.0,
+        "y2": 168.0
+      },
+      "confidence": 0.9572297145019878,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٥- عقد شراكات إستراتيجية مع مؤسسات التدريب في القطاعين العام والخاص؛ لإدارة",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 175.0,
+        "x2": 448.0,
+        "y2": 189.0
+      },
+      "confidence": 0.9848928018049761,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وحدات التدريب المختلفة، وتشغيلها.",
+      "bbox": {
+        "x1": 295.0,
+        "y1": 195.0,
+        "x2": 435.0,
+        "y2": 206.0
+      },
+      "confidence": 0.9943110006196159,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٦- مشاركة القطاعين العام والخاص في التدريب؛ لتوفير الموارد البشرية التقنية والمهنية",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 215.0,
+        "x2": 448.0,
+        "y2": 228.0
+      },
+      "confidence": 0.9773128369275261,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المتخصصة.",
+      "bbox": {
+        "x1": 390.0,
+        "y1": 236.0,
+        "x2": 435.0,
+        "y2": 245.0
+      },
+      "confidence": 0.9574157487262379,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٧- تقديم المساعدة الفنية والمشورة الإدارية في مجال التدريب للقطاعين العام والخاص.",
+      "bbox": {
+        "x1": 124.0,
+        "y1": 254.0,
+        "x2": 448.0,
+        "y2": 268.0
+      },
+      "confidence": 0.9982389664075461,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٨- إنشاء حاضنات تقنية ومهنية للتدريب.",
+      "bbox": {
+        "x1": 290.0,
+        "y1": 276.0,
+        "x2": 448.0,
+        "y2": 288.0
+      },
+      "confidence": 0.9775999585787455,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٩- إجراء البحوث والدراسات في مجال التدريب.",
+      "bbox": {
+        "x1": 268.0,
+        "y1": 295.0,
+        "x2": 448.0,
+        "y2": 308.0
+      },
+      "confidence": 0.9903233633799986,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٠١- إنتاج وسائل التدريب وتقنياته، وتطويرها.",
+      "bbox": {
+        "x1": 272.0,
+        "y1": 314.0,
+        "x2": 448.0,
+        "y2": 329.0
+      },
+      "confidence": 0.9652785460154215,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١١- عقد الموتمرات والندوات والحلقات والمشاركة فيها داخل المملكة وخارجها، بعد",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 335.0,
+        "x2": 448.0,
+        "y2": 349.0
+      },
+      "confidence": 0.9719366431236267,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "استكمال الإجراءات النظامية اللازمة.",
+      "bbox": {
+        "x1": 294.0,
+        "y1": 356.0,
+        "x2": 429.0,
+        "y2": 368.0
+      },
+      "confidence": 0.9987378039875546,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٢- الاشتراك في عضوية المنظمات والهيشات والمؤسسات الإقليمية والدولية المهتمة",
+      "bbox": {
+        "x1": 110.0,
+        "y1": 376.0,
+        "x2": 448.0,
+        "y2": 389.0
+      },
+      "confidence": 0.9792521244440323,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بالتدريب، بعد استكمال الإجراءات النظامية اللازمة.",
+      "bbox": {
+        "x1": 237.0,
+        "y1": 396.0,
+        "x2": 428.0,
+        "y2": 408.0
+      },
+      "confidence": 0.9971027082087947,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١٣ - تقديم مرثياتها حيال الانظمة واللوائح والقرارات ذات الصلة بالتدريب، واقترام ما يلزم",
+      "bbox": {
+        "x1": 107.0,
+        "y1": 415.0,
+        "x2": 448.0,
+        "y2": 428.0
+      },
+      "confidence": 0.9804548741726393,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "لتطويرها، ورفعها أو إحالتها إلى الجهات المختصة وفق الطرق النظامية المتبعة.",
+      "bbox": {
+        "x1": 141.0,
+        "y1": 435.0,
+        "x2": 428.0,
+        "y2": 447.0
+      },
+      "confidence": 0.997464109408228,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الرابعة:",
+      "bbox": {
+        "x1": 402.0,
+        "y1": 455.0,
+        "x2": 448.0,
+        "y2": 465.0
+      },
+      "confidence": 0.9676285596454844,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- بكون للمؤسسة مجلس إدارة يشكل على النحو التالي:",
+      "bbox": {
+        "x1": 237.0,
+        "y1": 474.0,
+        "x2": 448.0,
+        "y2": 486.0
+      },
+      "confidence": 0.9665644899302838,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "أ- وزير العمل",
+      "bbox": {
+        "x1": 381.0,
+        "y1": 494.0,
+        "x2": 436.0,
+        "y2": 506.0
+      },
+      "confidence": 0.9322467088699341,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "نائبأ للرئيس",
+      "bbox": {
+        "x1": 150.0,
+        "y1": 509.0,
+        "x2": 197.0,
+        "y2": 525.0
+      },
+      "confidence": 0.940303236246109,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ب- المحافظ",
+      "bbox": {
+        "x1": 383.0,
+        "y1": 513.0,
+        "x2": 435.0,
+        "y2": 525.0
+      },
+      "confidence": 0.9496401250362396,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "<b>ب</b>- ممثل من وزارة العمل",
+      "bbox": {
+        "x1": 343.0,
+        "y1": 532.0,
+        "x2": 436.0,
+        "y2": 547.0
+      },
+      "confidence": 0.9000727622597305,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ì",
+      "bbox": {
+        "x1": 454.0,
+        "y1": 593.0,
+        "x2": 460.0,
+        "y2": 602.0
+      },
+      "confidence": 0.8403084576129913,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 470.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9955990777015686,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "5/10",
+      "bbox": {
+        "x1": 555.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9542907238006592,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 35
+}

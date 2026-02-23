@@ -1,0 +1,523 @@
+{
+  "results": [
+    {
+      "text": "19/02/2026, 12:24",
+      "bbox": {
+        "x1": 23.0,
+        "y1": 15.0,
+        "x2": 83.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9991627434889475,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "View Original Document",
+      "bbox": {
+        "x1": 301.0,
+        "y1": 15.0,
+        "x2": 382.0,
+        "y2": 23.0
+      },
+      "confidence": 0.9959427316983541,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "بنافيا فحالحنا",
+      "bbox": {
+        "x1": 264.0,
+        "y1": 38.0,
+        "x2": 323.0,
+        "y2": 51.0
+      },
+      "confidence": 0.49010499318440753,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الرهشم ،_",
+      "bbox": {
+        "x1": 175.0,
+        "y1": 63.0,
+        "x2": 214.0,
+        "y2": 74.0
+      },
+      "confidence": 0.9820205189964988,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الأثلكة الغيث الشعادين",
+      "bbox": {
+        "x1": 359.0,
+        "y1": 67.0,
+        "x2": 504.0,
+        "y2": 84.0
+      },
+      "confidence": 0.8268189001828432,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "314",
+      "bbox": {
+        "x1": 85.0,
+        "y1": 83.0,
+        "x2": 104.0,
+        "y2": 93.0
+      },
+      "confidence": 0.5585590675473213,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "1",
+      "bbox": {
+        "x1": 119.0,
+        "y1": 83.0,
+        "x2": 130.0,
+        "y2": 94.0
+      },
+      "confidence": 0.6625505834817886,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الناريخ: ﴿",
+      "bbox": {
+        "x1": 132.0,
+        "y1": 82.0,
+        "x2": 214.0,
+        "y2": 97.0
+      },
+      "confidence": 0.7600414405266444,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المحفات ا",
+      "bbox": {
+        "x1": 171.0,
+        "y1": 107.0,
+        "x2": 212.0,
+        "y2": 118.0
+      },
+      "confidence": 0.9442597898569974,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضوأ",
+      "bbox": {
+        "x1": 167.0,
+        "y1": 151.0,
+        "x2": 191.0,
+        "y2": 166.0
+      },
+      "confidence": 0.9794656157493591,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "د- ممثل من وزارة المالية",
+      "bbox": {
+        "x1": 361.0,
+        "y1": 157.0,
+        "x2": 472.0,
+        "y2": 170.0
+      },
+      "confidence": 0.9827921505157764,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضوأ",
+      "bbox": {
+        "x1": 166.0,
+        "y1": 173.0,
+        "x2": 191.0,
+        "y2": 190.0
+      },
+      "confidence": 0.9930181741714478,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "هـ ممثل من وزارة التربية والتعليم",
+      "bbox": {
+        "x1": 315.0,
+        "y1": 178.0,
+        "x2": 472.0,
+        "y2": 196.0
+      },
+      "confidence": 0.9748117770467486,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "عضدأ",
+      "bbox": {
+        "x1": 166.0,
+        "y1": 196.0,
+        "x2": 191.0,
+        "y2": 211.0
+      },
+      "confidence": 0.9560173153877258,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "و- ممثل من وزارة التجارة والصناعة",
+      "bbox": {
+        "x1": 315.0,
+        "y1": 201.0,
+        "x2": 472.0,
+        "y2": 218.0
+      },
+      "confidence": 0.9955927337918963,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ويجب ألا تقل مراتب ممثلي الوزارات في عضوية المجلس عن المرتبة (الرابعة عشرة) .",
+      "bbox": {
+        "x1": 89.0,
+        "y1": 222.0,
+        "x2": 459.0,
+        "y2": 242.0
+      },
+      "confidence": 0.9862426225143143,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "ز- أربعة أعضاء من ذوي الخبرة من القطاع الخاص، يتصدر بتعيينهم قرار من مجلس",
+      "bbox": {
+        "x1": 88.0,
+        "y1": 246.0,
+        "x2": 471.0,
+        "y2": 266.0
+      },
+      "confidence": 0.9949776744842529,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الوزراء بناءً على التراح من وزيـر العمـل بعـد التشاور مـع مجلـس الغـرف التجاريـة",
+      "bbox": {
+        "x1": 88.0,
+        "y1": 270.0,
+        "x2": 454.0,
+        "y2": 289.0
+      },
+      "confidence": 0.9824338101032304,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "والصناعية السعودية. (١١)",
+      "bbox": {
+        "x1": 348.0,
+        "y1": 295.0,
+        "x2": 453.0,
+        "y2": 311.0
+      },
+      "confidence": 0.9875222123586215,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٧- فيما عدا الرئيس ونائبه، تكون العضوية في المجلس لمدة ثلاث سنوات قابلة للتجديد",
+      "bbox": {
+        "x1": 88.0,
+        "y1": 316.0,
+        "x2": 485.0,
+        "y2": 338.0
+      },
+      "confidence": 0.9890234992827898,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "لمرة واحدة فقط.",
+      "bbox": {
+        "x1": 389.0,
+        "y1": 346.0,
+        "x2": 463.0,
+        "y2": 359.0
+      },
+      "confidence": 0.9604508508654201,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٣- تحدد مكافآت حضور اجتماعات المجلس بقرار من مجلس الوزداء.",
+      "bbox": {
+        "x1": 180.0,
+        "y1": 367.0,
+        "x2": 485.0,
+        "y2": 382.0
+      },
+      "confidence": 0.9864109337329865,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المادة الخامسة:",
+      "bbox": {
+        "x1": 419.0,
+        "y1": 394.0,
+        "x2": 485.0,
+        "y2": 404.0
+      },
+      "confidence": 0.9609749492476968,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "المجلس هو السلطة العليا للمؤمسة ويشرف على إدارتها وتصريف أمورها، وله بوجه خاص",
+      "bbox": {
+        "x1": 87.0,
+        "y1": 412.0,
+        "x2": 471.0,
+        "y2": 430.0
+      },
+      "confidence": 0.9974301985547512,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "الصلاحيات التالية:",
+      "bbox": {
+        "x1": 401.0,
+        "y1": 441.0,
+        "x2": 485.0,
+        "y2": 453.0
+      },
+      "confidence": 0.9963478684425354,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "١- الموافقة على مشاريع السياسات والخطط العامة للتندريب ومراجعتها وتطويرها؛ تمهيداً",
+      "bbox": {
+        "x1": 86.0,
+        "y1": 456.0,
+        "x2": 487.0,
+        "y2": 481.0
+      },
+      "confidence": 0.9921709384237017,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "لإقرارها من مجلس الوزراء،",
+      "bbox": {
+        "x1": 349.0,
+        "y1": 485.0,
+        "x2": 471.0,
+        "y2": 502.0
+      },
+      "confidence": 0.982848878260012,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٢- إقرار السياسات العامة لإدارة المؤسسة، وهيكلها التنظيمي.",
+      "bbox": {
+        "x1": 217.0,
+        "y1": 507.0,
+        "x2": 484.0,
+        "y2": 526.0
+      },
+      "confidence": 0.9112610533833504,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "٣- إقرار اللوائح الداخلية للمؤمسة ويخاصة ما يتعلق بالشؤون الإدارية، والمالية، ويوظائف هيئة",
+      "bbox": {
+        "x1": 84.0,
+        "y1": 529.0,
+        "x2": 485.0,
+        "y2": 549.0
+      },
+      "confidence": 0.9920704235201296,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "التدريب في وحدات التدريب المختلفة بالاتفاق مع وزارة المالية ووزارة الخدمة المدنية.",
+      "bbox": {
+        "x1": 92.0,
+        "y1": 553.0,
+        "x2": 470.0,
+        "y2": 572.0
+      },
+      "confidence": 0.9967460525887353,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "إقرار اللوائع المنظمة للتدريب في وحدات التدريب، ويخاصة ما يتملق بتحديد مساعاته",
+      "bbox": {
+        "x1": 84.0,
+        "y1": 575.0,
+        "x2": 483.0,
+        "y2": 597.0
+      },
+      "confidence": 0.9634988495281764,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وخططه ومدده والإجازات وشروط الالتحاق والامتحانات والشهادات.",
+      "bbox": {
+        "x1": 179.0,
+        "y1": 598.0,
+        "x2": 468.0,
+        "y2": 618.0
+      },
+      "confidence": 0.990860435806337,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "وقرار اللوائح المنظمة للتدريب في القطاع الخاص، ويخاصة ما يتعلق بالمعايير الفنية.",
+      "bbox": {
+        "x1": 102.0,
+        "y1": 620.0,
+        "x2": 483.0,
+        "y2": 642.0
+      },
+      "confidence": 0.8436414338996477,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "إقرار اللوائح التي تحدد مكافات المتدربين وإعاناتهم وحوافزهم في جميع وحدات التدريب.",
+      "bbox": {
+        "x1": 83.0,
+        "y1": 644.0,
+        "x2": 482.0,
+        "y2": 663.0
+      },
+      "confidence": 0.967245341714369,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "(١) علت هذه العربة بدوحب فرار معلس الوزراء رفر (٢٠٩) وناريخ -١٥٢٨٧١٠هـ 🕰 👵",
+      "bbox": {
+        "x1": 197.0,
+        "y1": 667.0,
+        "x2": 511.0,
+        "y2": 708.0
+      },
+      "confidence": 0.8669971582528792,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "https://laws.boe.gov.sa/BoeLaws/Laws/Viewer/7f161509-c598-4528-ae69-b7be4a137e09?lawId=750bf502-86c2-4928-bdb9-a9a700f1ff3b",
+      "bbox": {
+        "x1": 22.0,
+        "y1": 817.0,
+        "x2": 469.0,
+        "y2": 826.0
+      },
+      "confidence": 0.9967364444732666,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    },
+    {
+      "text": "6/10",
+      "bbox": {
+        "x1": 556.0,
+        "y1": 817.0,
+        "x2": 572.0,
+        "y2": 825.0
+      },
+      "confidence": 0.9670626521110535,
+      "reason": "Highest confidence candidate from 1 options",
+      "source_models": [
+        "surya_ocr"
+      ]
+    }
+  ],
+  "total_regions": 37
+}

@@ -69,7 +69,7 @@ class PaddleOCRModel(OCRBase):
     def process(self, image: Image.Image) -> List[OCRResult]:
         """Process image with PaddleOCR"""
         img_array = np.array(image)
-        ocr_result = self.ocr.ocr(img_array, cls=True)
+        ocr_result = self.ocr.ocr(img_array)
         
         results = []
         
@@ -105,38 +105,42 @@ class SuryaOCR(OCRBase):
     """Surya OCR implementation using the new predictor-based API"""
     
     def __init__(self, languages: Optional[List[str]] = None):
-        print("Initializing Surya OCR...")
         """
         Initialize Surya OCR
         
         Args:
             languages: List of language codes (e.g., ['en', 'hi']). Default: ['en']
         """
+        print("Initializing Surya OCR...")
         super().__init__(ModelName.SURYA_OCR)
-        self.languages = languages or ['en']
+        #self.languages = languages or ['ara']
         
         try:
             from surya.foundation import FoundationPredictor
             from surya.detection import DetectionPredictor
             from surya.recognition import RecognitionPredictor
             
-            # Both predictors share a single FoundationPredictor instance
+            print("Model loading...")
             self.foundation_predictor = FoundationPredictor()
-            self.det_predictor = DetectionPredictor(self.foundation_predictor)
-            self.rec_predictor = RecognitionPredictor(self.foundation_predictor)
-        except Exception as e :
+            self.det_predictor = DetectionPredictor()
+            self.rec_predictor = RecognitionPredictor(
+                foundation_predictor=self.foundation_predictor
+            )
+        except Exception as e:
             import traceback
-            print(f"Error initializing Surya O0CR: {e}")
+            print(f"Error initializing Surya OCR: {e}")
             traceback.print_exc()
             raise 
     
     def process(self, image: Image.Image) -> List[OCRResult]:
         """Process image with Surya OCR"""
-        # Run detection to find text regions
-        det_predictions = self.det_predictor([image])
-        
-        # Run recognition on detected regions
-        predictions = self.rec_predictor([image], det_predictions, langs=self.languages)
+        print("Model processing...")
+        # New API: pass task list and detector instance directly
+        predictions = self.rec_predictor(
+            [image],
+            ['ocr_with_boxes'],
+            self.det_predictor, 
+        )
         
         results = []
         
